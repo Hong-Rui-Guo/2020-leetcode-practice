@@ -70,7 +70,7 @@ public:
                 }
                 x_digit[i] = temp;
                 printf("x_digit[%d]:%d\n",i,x_digit[i]);
-
+                
             }
 
             //get reverse value of input_abs(x_abs)
