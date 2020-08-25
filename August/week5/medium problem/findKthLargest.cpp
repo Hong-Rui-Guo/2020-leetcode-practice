@@ -1,5 +1,7 @@
 class Solution {
 public:
+    //quickselect alogrithm: a kind of divide and conquer
+    //this can change to recursive
     int findKthLargest(vector<int>& array, int k) {
         int start = 0;
         int end = array.size() - 1;
